@@ -1,5 +1,3 @@
-//Noms et Prénoms: Kenley Clermont et Léger Achley
-//NoteCours.java
 // classe Etudiant avec un constructeur pour initialiser:
 //matricule, nom, programme, section, n_des_notes, notes.
 package OOP;
